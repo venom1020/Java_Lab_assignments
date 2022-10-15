@@ -1,4 +1,4 @@
-javac Ex6.java
-java Ex6
+javac Ex1.java
+java Ex1
 del -f *.class
 

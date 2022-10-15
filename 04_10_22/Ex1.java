@@ -9,6 +9,7 @@ public static void main(String[] args) {
 		input =s.nextInt();
 		if(input ==year){
 		flag=false;
+		System.out.println("Good!");
 		break;
 		}		
 	}
