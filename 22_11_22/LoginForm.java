@@ -80,8 +80,6 @@ public class LoginForm extends JFrame implements ActionListener
         
         if(br!=null){
           String msg = br.readLine();
-        
-
           while(msg!=null){
             String[] credential = msg.split(" ");
             if((user.equals(credential[0])) && (password.equals(credential[1]))){
@@ -94,7 +92,6 @@ public class LoginForm extends JFrame implements ActionListener
         }
 
         if(flag){
-          System.out.println("valid");
           new MainApp();
           this.dispose();
         }
