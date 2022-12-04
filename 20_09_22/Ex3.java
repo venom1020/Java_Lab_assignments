@@ -16,4 +16,5 @@ public class Ex3{
 			System.out.println("Sum of the numbers:"+sum);
 
 		}	
+		
 }

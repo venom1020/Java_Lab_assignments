@@ -1,0 +1,7 @@
+aneesh 101 ES
+rohan 102 vlsi
+akansh 203 aiml
+Ram 561 Big_data
+vishal 101 es
+akshay 112 ES
+prakyath 12 Es
